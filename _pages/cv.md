@@ -11,7 +11,7 @@ redirect_from:
 
 ## Work experience
 
-**Research Project Manager** / **Research Project Officer**, University of Bristol 2017-present & Aarhus University 2020-present
+**Project Manager** / **Project Officer**, University of Bristol 2017-present & Aarhus University 2020-present
 
 I have managed or provided support to the following research projects:
 
