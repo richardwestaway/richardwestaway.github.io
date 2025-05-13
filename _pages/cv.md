@@ -17,7 +17,7 @@ I have managed or provided support to the following research projects:
 
 - [DEEP PURPLE](https://www.deeppurple-ercsyg.eu/){:target="_blank"}, a 6-year €11m ERC Synergy Grant hosted by the Department of Environmental Science, Aarhus University. I manage the Aarhus University component of the project on a day-to-day basis, maintain the project website and help with fieldwork logistics (Jan 2020 to present).
 
-- [PRODEMINFO](sks.to/prodeminfo){:target="_blank"}, a 5-year €2.4m ERC Advanced Grant hosted by the Technology, Democracy, and Cognition Group (TeDCog), School of Psychological Science, University of Bristol. I manage the project on a day-to-day basis and maintain the project website, as well as providing administration support for TeDCog (Nov 2021 to present).
+- [PRODEMINFO](https://sks.to/prodeminfo){:target="_blank"}, a 5-year €2.4m ERC Advanced Grant hosted by the Technology, Democracy, and Cognition Group (TeDCog), School of Psychological Science, University of Bristol. I manage the project on a day-to-day basis and maintain the project website, as well as providing administration support for TeDCog (Nov 2021 to present).
 
 - [GlobalMass](https://www.globalmass.eu/){:target="_blank"}, a 6-year €2.4m ERC Advanced Grant hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I managed the project on a day-to-day basis, maintained the project website and twitter feed, and coordinated research outputs (Jan 2017 to Dec 2022).
 
