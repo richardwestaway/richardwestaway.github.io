@@ -15,7 +15,7 @@ redirect_from:
 
 I have managed or provided support to the following research projects:
 
-- [DTC-Glaciers](https://dtcglaciers.org/)*{:target="_blank*"}, an 18-month ESA project hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I provide project support and administration (Nov 2024 to present).
+- [DTC-Glaciers](https://dtcglaciers.org/){:target="_blank"}, an 18-month ESA project hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I provide project support and administration (Nov 2024 to present).
 
 - CASP-ICE, a 2-year UKRI Global Partnerships Seedcorn project hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I manage the project on a day-to-day basis, maintain the project website, liaise with partners and helped organise the April 2024 CASP-ICE workshop (Nov 2023 to present).
 
