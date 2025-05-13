@@ -24,34 +24,35 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Richard Westaway"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : example: "he/his"  
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : # "Earth"
+  employer         : "University of Bristol"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "r.westaway@bristol.ac.uk" 
 
   # Academic websites
-  academia         : # URL
+  academia         : https://www.bristol.ac.uk/people/person/Richard-Westaway-4e46888d-591b-4d0b-a66d-9ed21a3e939c/
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=33QpDioAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-6102-1540"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "http://www.scopus.com/inward/authorDetails.url?authorID=7003345950&partnerID=8YFLogxK"
+  webofscience     : "https://www.webofscience.com/wos/author/record/1025280"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
