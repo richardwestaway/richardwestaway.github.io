@@ -86,46 +86,44 @@ I was based in the Geomatics and Geographical Information Systems (GIS) group at
 
 * B.S. in GitHub, GitHub University, 2012
 
-# Publications
+Publications
 
-# ======
+======
 
-# <ul>{% for post in site.publications reversed %}
+<ul>{% for post in site.publications reversed %}
 
-# {% include archive-single-cv.html %}
+{% include archive-single-cv.html %}
 
-# {% endfor %}</ul>
+{% endfor %}</ul>
 
-# 
 
-# Talks
 
-# ======
+Talks
 
-# <ul>{% for post in site.talks reversed %}
+======
 
-# {% include archive-single-talk-cv.html  %}
+<ul>{% for post in site.talks reversed %}
 
-# {% endfor %}</ul>
+{% include archive-single-talk-cv.html  %}
 
-# 
+{% endfor %}</ul>
 
-# Teaching
 
-# ======
 
-# <ul>{% for post in site.teaching reversed %}
+Teaching
 
-# {% include archive-single-cv.html %}
+======
 
-# {% endfor %}</ul>
+<ul>{% for post in site.teaching reversed %}
 
-# 
+{% include archive-single-cv.html %}
 
-# Service and leadership
+{% endfor %}</ul>
 
-# ======
 
-# * Currently signed in to 43 different slack teams
 
-# 
+Service and leadership
+
+======
+
+* Currently signed in to 43 different slack teams
