@@ -78,11 +78,13 @@ I was based in the Geomatics and Geographical Information Systems (GIS) group at
 
 ## Education
 
-* PhD, Department of Geography, University of Cambridge (1998-2001) **Development of remote sensing methods for measurement of large, gravel-bed, braided rivers**. *Funded by NERC CASE studentship GT04/98/54/FS in partnership with the National Institute of Water and Atmospheric Research Ltd (NIWA), New Zealand. CASE funding provided through New Zealand Foundation for Research, Science and Technology, contract number CO1818.*
+**PhD**, Department of Geography, University of Cambridge **(1998-2001)
 
-* BA(Hons) **Geography**, University of Cambridge (1995-1998)
+- **Development of remote sensing methods for measurement of large, gravel-bed, braided rivers.** Funded by NERC CASE studentship GT04/98/54/FS in partnership with the National Institute of Water and Atmospheric Research Ltd (NIWA), New Zealand. CASE funding provided through New Zealand Foundation for Research, Science and Technology, contract number CO1818.
 
-Publications
+**BA(Hons) Geography**, University of Cambridge (1995-1998)
+
+## Publications
 
 ======
 
