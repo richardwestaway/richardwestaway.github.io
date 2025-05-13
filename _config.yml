@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : # "profile.png"
   name             : "Richard Westaway"
-  pronouns         : # "he/his"  
+  pronouns         : "he/his"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : # "Earth"
   employer         : "University of Bristol"
