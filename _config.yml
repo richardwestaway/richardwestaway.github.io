@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-6102-1540"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : "http://www.scopus.com/inward/authorDetails.url?authorID=7003345950&partnerID=8YFLogxK"
   webofscience     : "https://www.webofscience.com/wos/author/record/1025280"
