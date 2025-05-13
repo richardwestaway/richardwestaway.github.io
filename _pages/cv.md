@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Work experience
-
-======
+## Work experience
 
 **Research Project Manager / Research Project Officer**, University of Bristol 2017-present & Aarhus University 2020-present
 
 I have managed or provided support to the following research projects:
 
-- [DTC-Glaciers](https://dtcglaciers.org/), an 18-month ESA project hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I provide project support and administration (Nov 2024 to present).
+- [DTC-Glaciers](https://dtcglaciers.org/)*{:target="_blank*"}, an 18-month ESA project hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I provide project support and administration (Nov 2024 to present).
 
 - CASP-ICE, a 2-year UKRI Global Partnerships Seedcorn project hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I manage the project on a day-to-day basis, maintain the project website, liaise with partners and helped organise the April 2024 CASP-ICE workshop (Nov 2023 to present).
 
@@ -78,9 +76,7 @@ I was based in the Geomatics and Geographical Information Systems (GIS) group at
 
 - Various Shoreline Management Plans (SMPs) and coastal defence projects, including South Foreland to Beachy Head SMP, Poole Bay and Harbour Strategy Study and Dungeness Foreland Sea Defences Study.
 
-# Education
-
-======
+## Education
 
 * PhD, Department of Geography, University of Cambridge 1998-2001
   Development of remote sensing methods for measurement of large, gravel-bed, braided rivers
