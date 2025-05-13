@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##Research Project Manager## / ##Research Project Officer##, University of Bristol 2017-present & Aarhus University 2020-present
+Research Project Manager / Research Project Officer, University of Bristol 2017-present & Aarhus University 2020-present
 
 I have managed or provided support to the following research projects (follow the links for more details):
 
@@ -26,7 +26,7 @@ I have been the UK Reproducibility Network (UKRN) Local Network Lead (LNL) for t
 
 In addition, I contributed to the first Global Sea Level Budget Assessment by the World Climate Research Programme (WCRP), maintain the TeDCog database of experts on debunking of misinformation and managed the Bristol Glaciology Centre twitter account from 2018 to 2024. I have also provided informal support to other University of Bristol research projects including Black and Bloom (NERC), Science of Honesty (John Templeton Foundation), SoMe4DEM (UKRI) and SLB CCI+ (ESA).
 
-##Sustainability Specialist##, IMS Consulting 2010-2016
+Sustainability Specialist, IMS Consulting 2010-2016
 I worked as a consultant for IMS Consulting who deliver stakeholder engagement and sustainability communications for businesses and other organisations. Notable projects I delivered or provided a major contribution towards include:
 
 Greening the Building Supply Chain, a major report on the building and construction sector by the United Nations Environment Program’s Sustainable Buildings and Climate Initiative (UNEP-SBCI). The work resulted in a set of recommendations to inform future work programs of UNEP-SBCI and partners.
@@ -38,10 +38,10 @@ Comparing and benchmarking the sustainability communications of the UK construct
 Visiting Scientist, CSIRO 2008-2009
 I spent three months working for the Climate Adaptation Flagship at CSIRO (the Commonwealth Scientific and Industrial Research Organisation, Australia’s national science agency) researching the current state of adaptation planning for climate change.
 
-##Scientific Officer##, UKCIP 2005-2008
+Scientific Officer, UKCIP 2005-2008
 I managed several work-streams for UKCIP (UK Climate Impacts Programme), as part of its £5m Defra-funded 2005-2010 research programme to research and raise awareness of climate change impacts and adaptation in the UK. I had responsibility for UKCIP’s climate scenario datasets, and was a key member of the partnership that delivered the 2009 version of the UK climate projections.
 
-##GIS Analyst##, Halcrow Group Ltd 2001-2004
+GIS Analyst, Halcrow Group Ltd 2001-2004
 I was based in the Geomatics and Geographical Information Systems (GIS) group at Halcrow (now Jacobs Engineering Group), a multi-disciplinary consultancy specialising in planning, design and management services for the built environment. Notable projects I delivered or provided a major contribution towards include:
 
 National Trust’s Coastal Risk Assessment, which examined the risks National Trust properties face from sea level rise. The results informed and were subsequently publicised through the National Trust’s ‘Shifting Shores‘ campaign.
