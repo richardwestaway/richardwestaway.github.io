@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+# Work experience
+
+======
+
 **Research Project Manager / Research Project Officer**, University of Bristol 2017-present & Aarhus University 2020-present
 
 I have managed or provided support to the following research projects:
@@ -74,74 +78,17 @@ I was based in the Geomatics and Geographical Information Systems (GIS) group at
 
 - Various Shoreline Management Plans (SMPs) and coastal defence projects, including South Foreland to Beachy Head SMP, Poole Bay and Harbour Strategy Study and Dungeness Foreland Sea Defences Study.
 
-PhD, Department of Geography, University of Cambridge 1998-2001
-Development of remote sensing methods for measurement of large, gravel-bed, braided rivers
-
-Funded by NERC CASE studentship GT04/98/54/FS in partnership with the National Institute of Water and Atmospheric Research Ltd (NIWA), New Zealand. CASE funding provided through New Zealand Foundation for Research, Science and Technology, contract number CO1818.
-
 # Education
 
-# ======
+======
 
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD, Department of Geography, University of Cambridge 1998-2001
+  Development of remote sensing methods for measurement of large, gravel-bed, braided rivers
+  Funded by NERC CASE studentship GT04/98/54/FS in partnership with the National Institute of Water and Atmospheric Research Ltd (NIWA), New Zealand. CASE funding provided through New Zealand Foundation for Research, Science and Technology, contract number CO1818.
 
-# * M.S. in Jekyll, GitHub University, 2014
+* M.S. in Jekyll, GitHub University, 2014
 
-# * B.S. in GitHub, GitHub University, 2012
-
-# 
-
-# Work experience
-
-# ======
-
-# * Spring 2024: Academic Pages Collaborator
-
-# * GitHub University
-
-# * Duties includes: Updates and improvements to template
-
-# * Supervisor: The Users
-
-# 
-
-# * Fall 2015: Research Assistant
-
-# * GitHub University
-
-# * Duties included: Merging pull requests
-
-# * Supervisor: Professor Hub
-
-# 
-
-# * Summer 2015: Research Assistant
-
-# * GitHub University
-
-# * Duties included: Tagging issues
-
-# * Supervisor: Professor Git
-
-# 
-
-# Skills
-
-# ======
-
-# * Skill 1
-
-# * Skill 2
-
-# * Sub-skill 2.1
-
-# * Sub-skill 2.2
-
-# * Sub-skill 2.3
-
-# * Skill 3
-
-# 
+* B.S. in GitHub, GitHub University, 2012
 
 # Publications
 
