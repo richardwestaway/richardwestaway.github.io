@@ -23,7 +23,7 @@ I have previously managed or supported the following research projects:
 - **GlobalMass**, which aimed to use a Bayesian statistical framework to attribute recent sea level into its component parts. Funder: ERC
 - **Black and Bloom**, which sought to unravel how dark particles (black) and microbial processes (bloom) darken and accelerate the melting of the Greenland Ice Sheet. Funder: NERC
 - **Bristol Hub for Gambling Harms Research**, an interdisciplinary hub for gambling harms research. Funder: GambleAware
-- A portfolio of linked projects that focus on Greenhouse Gas Removal (GGR) from the land sector, including Towards an Integrated Consistent European LULUCF Monitoring and Policy Pathway Assessment Framework,  Greenhouse Gas Removal in the Land Sector – Addressing the Gaps (GGRiLS – Gaps) and CO2RE. Funder: UKRI
+- A portfolio of linked projects that focus on Greenhouse Gas Removal from the land sector, including **Towards an Integrated Consistent European LULUCF Monitoring and Policy Pathway Assessment Framework**, **Greenhouse Gas Removal in the Land Sector – Addressing the Gaps (GGRiLS – Gaps)** and **CO2RE**. Funder: UKRI
 
 I also support other projects and activities within Bristol Glaciology Centre (BGC) and the Technology, Democracy, and Cognition Group (TeDCog), including contributing towards research. My wider interests include open research, science communication and data visualisation.
 
