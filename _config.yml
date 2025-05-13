@@ -28,11 +28,11 @@ author:
   bio              : # "Short biography for the left-hand sidebar"
   location         : # "Earth"
   employer         : "University of Bristol"
-  uri              : # URL
+  uri              : "https://www.bristol.ac.uk/people/person/Richard-Westaway-4e46888d-591b-4d0b-a66d-9ed21a3e939c/"
   email            : "r.westaway@bristol.ac.uk" 
 
   # Academic websites
-  academia         : https://www.bristol.ac.uk/people/person/Richard-Westaway-4e46888d-591b-4d0b-a66d-9ed21a3e939c/
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=33QpDioAAAAJ&hl=en"
   impactstory      : # URL
