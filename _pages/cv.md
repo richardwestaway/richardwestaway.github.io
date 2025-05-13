@@ -15,15 +15,15 @@ redirect_from:
 
 I have managed or provided support to the following research projects:
 
-- [**DEEP PURPLE**](https://www.deeppurple-ercsyg.eu/){:target="_blank"}, a 6-year €11m ERC Synergy Grant hosted by the Department of Environmental Science, Aarhus University. I manage the Aarhus University component of the project on a day-to-day basis, maintain the project website and help with fieldwork logistics (Jan 2020 to present).
+- [**DEEP PURPLE**](https://cordis.europa.eu/project/id/856416){:target="_blank"}, a 6-year €11m ERC Synergy Grant hosted by the Department of Environmental Science, Aarhus University. I manage the Aarhus University component of the project on a day-to-day basis, maintain the [project website](https://www.deeppurple-ercsyg.eu/){:target="_blank"} and help with fieldwork logistics (Jan 2020 to present).
 
-- [**PRODEMINFO**](https://sks.to/prodeminfo){:target="_blank"}, a 5-year €2.4m ERC Advanced Grant hosted by the Technology, Democracy, and Cognition Group (TeDCog), School of Psychological Science, University of Bristol. I manage the project on a day-to-day basis and maintain the project website, as well as providing administration support for TeDCog (Nov 2021 to present).
+- [**PRODEMINFO**](https://cordis.europa.eu/project/id/101020961){:target="_blank"}, a 5-year €2.4m ERC Advanced Grant hosted by the Technology, Democracy, and Cognition Group (TeDCog), School of Psychological Science, University of Bristol. I manage the project on a day-to-day basis and maintain the [project website](https://sks.to/prodeminfo){:target="_blank"}, as well as providing administration support for TeDCog (Nov 2021 to present).
 
-- [**GlobalMass**](https://www.globalmass.eu/){:target="_blank"}, a 6-year €2.4m ERC Advanced Grant hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I managed the project on a day-to-day basis, maintained the project website and twitter feed, and coordinated research outputs (Jan 2017 to Dec 2022).
+- [**GlobalMass**](https://cordis.europa.eu/project/id/694188){:target="_blank"}, a 6-year €2.4m ERC Advanced Grant hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I managed the project on a day-to-day basis, maintained the [project website](https://www.globalmass.eu/){:target="_blank"} and twitter feed, and coordinated research outputs (Jan 2017 to Dec 2022).
 
-- [**4dmodeller**](https://www.globalmass.eu/4dmodeller/){:target="_blank"}, a 1-year UKRI ‘Proof of Concept’ grant hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I managed the project on a day-to-day basis, maintained the project website and twitter feed, and coordinated research outputs (Dec 2022 to Jul 2023).
+- [**4dmodeller**](https://gtr.ukri.org/projects?ref=EP%2FX022641%2F1){:target="_blank"}, a 1-year UKRI ‘Proof of Concept’ grant hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I managed the project on a day-to-day basis, maintained the [project website](https://www.globalmass.eu/4dmodeller/){:target="_blank"} and twitter feed, and coordinated research outputs (Dec 2022 to Jul 2023).
 
-- [**CASP-ICE**](https://microlabbristol.org/casp-ice/){:target="_blank"}, a 2-year UKRI Global Partnerships Seedcorn project hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I manage the project on a day-to-day basis, maintain the project website, liaise with partners and helped organise the April 2024 CASP-ICE workshop (Nov 2023 to present).
+- [**CASP-ICE**](https://gtr.ukri.org/projects?ref=NE%2FY002636%2F1){:target="_blank"}, a 2-year UKRI Global Partnerships Seedcorn project hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I manage the project on a day-to-day basis, maintain the [project website](https://microlabbristol.org/casp-ice/){:target="_blank"}, liaise with partners and helped organise the April 2024 CASP-ICE workshop (Nov 2023 to present).
 
 - [**DTC-Glaciers**](https://dtcglaciers.org/){:target="_blank"}, an 18-month ESA project hosted by Bristol Glaciology Centre, School of Geographical Sciences, University of Bristol. I provide project support and administration (Nov 2024 to present).
 
@@ -78,13 +78,9 @@ I was based in the Geomatics and Geographical Information Systems (GIS) group at
 
 ## Education
 
-* PhD, Department of Geography, University of Cambridge 1998-2001
-  Development of remote sensing methods for measurement of large, gravel-bed, braided rivers
-  Funded by NERC CASE studentship GT04/98/54/FS in partnership with the National Institute of Water and Atmospheric Research Ltd (NIWA), New Zealand. CASE funding provided through New Zealand Foundation for Research, Science and Technology, contract number CO1818.
+* PhD, Department of Geography, University of Cambridge (1998-2001) **Development of remote sensing methods for measurement of large, gravel-bed, braided rivers**. *Funded by NERC CASE studentship GT04/98/54/FS in partnership with the National Institute of Water and Atmospheric Research Ltd (NIWA), New Zealand. CASE funding provided through New Zealand Foundation for Research, Science and Technology, contract number CO1818.*
 
-* M.S. in Jekyll, GitHub University, 2014
-
-* B.S. in GitHub, GitHub University, 2012
+* BA(Hons) **Geography**, University of Cambridge (1995-1998)
 
 Publications
 
