@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I have been a Research Manager / Research Project Officer at the University of Bristol since 2017, providing project management and administrative support to various projects in the School of Geographical Sciences and the School of Psychological Science. Since 2020, I have also been affiliated to the Department of Environmental Science (ENVS) at Aarhus University, Denmark.
+I have been a Project Manager / Project Officer at the University of Bristol since 2017, providing project management and administrative support to various projects in the School of Geographical Sciences and the School of Psychological Science. Since 2020, I have also been affiliated to the Department of Environmental Science (ENVS) at Aarhus University, Denmark.
 
 In addition, I am currently the UK Reproducibility Network (UKRN) Local Lead for the University of Bristol. The local network lead provides a point of contact for UKRN within the institution and represents a community of UoB staff who advocate rigorous, reproducible and transparent research.
 
