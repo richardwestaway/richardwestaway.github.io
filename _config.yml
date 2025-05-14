@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Richard Westaway"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Richard Westaway"
 description              : # &description "personal description"

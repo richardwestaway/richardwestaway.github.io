@@ -8,11 +8,21 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+    
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 
-  # - title: "Other outputs"
-  #  url: /outputs/    
+  - title: "Other outputs"
+    url: /outputs/    
+
+  - title: "Visualisations"
+    url: "https://richardwestaway.blogs.bristol.ac.uk/" 
+
+  - title: "Service"
+    url: /service/  
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -23,11 +33,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
