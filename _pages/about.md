@@ -13,9 +13,9 @@ In addition, I am currently the UK Reproducibility Network (UKRN) Local Lead for
 
 I currently manage or support the following research projects:
 
-- [**DEEP PURPLE**](https://www.deeppurple-ercsyg.eu/){:target="_blank"}, which is investigating the physical and microbial processes which darken the Greenland Ice Sheet. Host: ENVS, Aarhus University. Funder: ERC
-- [**PRODEMINFO**](https://sks.to/prodeminfo){:target="_blank"} (Protecting the Democratic Information Space in Europe), which aims to gain a greater understanding of people’s perception of truth in an age rife with fake news and conspiracy theories. Funder: ERC
-- [**CASP-ICE**](https://microlabbristol.org/casp-ice/){:target="_blank"} (Cryospheric Algal Sampling Protocols – International Collaboration and Exchange), which will bring together experts in snow/glacial algal research in order to align methods and undertake standardised global sampling. Funder: UK Research and Innovation (UKRI)
+- [**DEEP PURPLE**](https://cordis.europa.eu/project/id/856416){:target="_blank"}, which is investigating the physical and microbial processes which darken the Greenland Ice Sheet. Host: ENVS, Aarhus University. Funder: ERC
+- [**PRODEMINFO**](https://cordis.europa.eu/project/id/101020961){:target="_blank"} (Protecting the Democratic Information Space in Europe), which aims to gain a greater understanding of people’s perception of truth in an age rife with fake news and conspiracy theories. Funder: ERC
+- [**CASP-ICE**](https://gtr.ukri.org/projects?ref=NE%2FY002636%2F1){:target="_blank"} (Cryospheric Algal Sampling Protocols – International Collaboration and Exchange), which brings together experts in snow/glacial algal research in order to align methods and undertake standardised global sampling. Funder: UK Research and Innovation (UKRI)
 - [**DTC-Glaciers**](https://dtcglaciers.org/){:target="_blank"} (A Digital Twin Component for Glaciers), which aims to deliver a demonstration of a digital twin component for glaciers, to lay the groundwork for potential future integration in the ESA Digital Twin Engine (DTE) framework. Funder: European Space Agency (ESA)
 - [**Arctic PASSION**](https://arcticpassion.eu/){:target="_blank"}, which aims to co-create and implement a coherent, integrated Arctic observing system: the ‘Pan-Arctic Observing System of Systems – pan-AOSS’. Funder: European Research Council (ERC)
 
