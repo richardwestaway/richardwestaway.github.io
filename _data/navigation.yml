@@ -19,7 +19,7 @@ main:
     url: /outputs/    
 
   - title: "Visualisations"
-    url: /visualisations/ 
+    url: /viz/ 
   #  url: "https://richardwestaway.blogs.bristol.ac.uk/" 
 
   - title: "Service"
