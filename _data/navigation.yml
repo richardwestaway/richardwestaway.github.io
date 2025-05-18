@@ -18,11 +18,12 @@ main:
   - title: "Other outputs"
     url: /outputs/    
 
-  - title: "Visualisations"
-    url: "https://richardwestaway.blogs.bristol.ac.uk/" 
-
   - title: "Service"
     url: /service/  
+
+  - title: "Visualisations"
+  #  url: /visualisations/ 
+    url: "https://richardwestaway.blogs.bristol.ac.uk/"
 
   # - title: "Teaching"
   #   url: /teaching/    
