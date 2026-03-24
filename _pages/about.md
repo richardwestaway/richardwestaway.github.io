@@ -16,7 +16,7 @@ I currently manage or support the following research projects:
 - [**DEEP PURPLE**](https://cordis.europa.eu/project/id/856416){:target="_blank"}, which is investigating the physical and microbial processes which darken the Greenland Ice Sheet. Host: ENVS, Aarhus University. Funder: ERC
 - [**PRODEMINFO**](https://cordis.europa.eu/project/id/101020961){:target="_blank"} (Protecting the Democratic Information Space in Europe), which aims to gain a greater understanding of people’s perception of truth in an age rife with fake news and conspiracy theories. Funder: ERC
 - [**DTC-Glaciers**](https://eof.esa.int/component/dtc-glaciers/){:target="_blank"} (A Digital Twin Component for Glaciers), which aims to deliver a demonstration of a digital twin component for glaciers, to lay the groundwork for potential future integration in the ESA Digital Twin Engine (DTE) framework. Funder: European Space Agency (ESA)
-<!-- - **+Lab** (Planetary Urban Science Lab), a flagship global civic initiative straddling local and international civic engagement, establishing Bristol as a global hub for urban science and policy. Funder: UoB philanthropic investment -->
+- [**+Lab** (Planetary Urban Science Lab)] (https://pluslab.bristol.ac.uk/), a flagship global civic initiative straddling local and international civic engagement, establishing Bristol as a global hub for urban science and policy. Funder: UoB philanthropic investment
 
 I also support other projects and activities within the School of Geographical Sciences and the School of Psychological Science Technology, Democracy, and Cognition Group (TeDCog), including contributing towards research outputs. My wider interests include open research, science communication and data visualisation.
 
