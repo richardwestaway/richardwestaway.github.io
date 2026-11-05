@@ -13,10 +13,10 @@ redirect_from:
 
 I currently manage or support the following research projects:
 
-- [**DEEP PURPLE**](https://cordis.europa.eu/project/id/856416){:target="_blank"}, which is investigating the physical and microbial processes which darken the Greenland Ice Sheet. Host: ENVS, Aarhus University. Funder: ERC
+- [**+Lab**](https://pluslab.bristol.ac.uk/){:target="_blank"} (Planetary Urban Science Lab), a strategic initiative in partnership with the Global Engagement Division (GED), that aims to establish the University of Bristol as a global hub for urban science and policy. Funder: UoB philanthropic investment
 - [**PRODEMINFO**](https://cordis.europa.eu/project/id/101020961){:target="_blank"} (Protecting the Democratic Information Space in Europe), which aims to gain a greater understanding of people’s perception of truth in an age rife with fake news and conspiracy theories. Funder: ERC
+- [**DEEP PURPLE**](https://cordis.europa.eu/project/id/856416){:target="_blank"}, which is investigating the physical and microbial processes which darken the Greenland Ice Sheet. Host: ENVS, Aarhus University. Funder: ERC
 - [**OGGM-Next**](https://oggm.org/2026/03/23/oggm-next/){:target="_blank"} which aims to modernise the Open Global Glacier Model (OGGM) and to secure its role as a core piece of global glacier modelling infrastructure. Funder: UK Research Software Maintenance Fund
-- [**+Lab**](https://pluslab.bristol.ac.uk/){:target="_blank"} (Planetary Urban Science Lab), a flagship global civic initiative straddling local and international civic engagement, establishing Bristol as a global hub for urban science and policy. Funder: UoB philanthropic investment
 
 I also support other projects and activities within the School of Geographical Sciences and the School of Psychological Science Technology, Democracy, and Cognition Group (TeDCog), including contributing towards research outputs. My wider interests include open research, science communication and data visualisation.
 
